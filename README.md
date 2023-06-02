@@ -3,7 +3,7 @@
 ## API list
   - getTodo
   - getTodoUser
-  - getListTodos [specs](getListTodos)
+  - getListTodos [specs](#getlisttodos)
 
 ## Api description
 ### getTodo
